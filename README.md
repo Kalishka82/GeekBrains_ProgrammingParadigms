@@ -1,4 +1,5 @@
-## GeekBrains_UnitTests
+## GeekBrains_ProgrammingParadigms
+
 ---------------
 
 ### 📌 ht_01
